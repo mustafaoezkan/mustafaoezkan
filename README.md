@@ -1,4 +1,4 @@
-# Hi I'm Mustafa Ozkan 👋
+# Hi! I'm Mustafa Ozkan 👋
 
 #### -🔭 I’m currently working on APIs and Android Applications.
 #### -⚡ I love discovering new things and learning different subjects.
