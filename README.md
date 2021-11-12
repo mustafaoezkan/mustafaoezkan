@@ -1,6 +1,6 @@
 # Hi! I'm Mustafa Ozkan 👋
 
-#### -🔭 I’m currently working on APIs and Android Applications.
+#### -🔭 I’m developing Websites by React.
 #### -⚡ I love discovering new things and learning different subjects.
 
 [![Mustafa Ozkan's github stats](https://github-readme-stats.vercel.app/api?username=mustafaoezkan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/mustafaoezkan/github-readme-stats)
