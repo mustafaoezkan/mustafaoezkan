@@ -1,5 +1,5 @@
 # Hi! I'm Mustafa Ozkan 👋
-
+#### -👨‍💻 I’m currently working at Huawei.
 #### -🔭 I’m developing Websites with React.
 #### -⚡ I love discovering new things and learning different subjects.
 
