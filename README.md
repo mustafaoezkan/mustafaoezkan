@@ -1,5 +1,5 @@
 # Hi! I'm Mustafa Ozkan 👋
-## I'm a Software Engineer at Huawei
+#### - I'm a Software Engineer at Huawei.
 #### -🔭 I’m developing applications with React.
 #### -⚡ I love discovering new things and learning different subjects.
 
