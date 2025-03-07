@@ -1,7 +1,7 @@
 # Hi! I'm Mustafa Ozkan 👋
-#### - I'm a Software Engineer at Huawei.
+#### - I'm a Software Engineer at Yapı Kredi Teknoloji.
 #### -🔭 I work across the full stack, developing applications with a variety of technologies.
-#### -⚡ I have experience with multiple languages and frameworks, including React, JavaScript, TypeScript, React Native, Vue, Go, Java Spring Boot, and Node.js.
+#### -⚡ I have experience with multiple languages and frameworks, including React, JavaScript, Java Spring Boot, TypeScript, React Native, Vue, Go and Node.js.
 #### -🌱 I’m always eager to discover new technologies and expand my skills in different areas.
 
 [![Mustafa Ozkan's github stats](https://github-readme-stats.vercel.app/api?username=mustafaoezkan&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
